@@ -1,0 +1,3 @@
+[submodule "libdata-parsebinary-perl"]
+	path = libdata-parsebinary-perl
+	url = git://github.com/alanhaggai/libdata-parsebinary-perl.git
