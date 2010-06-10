@@ -7,3 +7,6 @@
 [submodule "libtemplate-plugin-cycle-perl"]
 	path = libtemplate-plugin-cycle-perl
 	url = git://github.com/alanhaggai/libtemplate-plugin-cycle-perl.git
+[submodule "libdata-formvalidator-constraints-datetime-perl"]
+	path = libdata-formvalidator-constraints-datetime-perl
+	url = git://github.com/alanhaggai/libdata-formvalidator-constraints-datetime-perl.git
