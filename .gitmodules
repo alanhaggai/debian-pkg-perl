@@ -10,3 +10,6 @@
 [submodule "libdata-formvalidator-constraints-datetime-perl"]
 	path = libdata-formvalidator-constraints-datetime-perl
 	url = git://github.com/alanhaggai/libdata-formvalidator-constraints-datetime-perl.git
+[submodule "libordb-debianmodules-perl"]
+	path = libordb-debianmodules-perl
+	url = git://github.com/alanhaggai/libordb-debianmodules-perl.git
